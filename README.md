@@ -12,7 +12,7 @@ Asegúrate de tener instalados los siguientes programas:
 #### 1. Clonar el repositorio
 
 ```bash
-git clone (link del repositorio)
+git clone https://github.com/MerelesLautaro/Technical-test-SSR.git
 ```
 
 #### 2. Abrir una terminal en la misma raiz que el archivo docker-compose.yml
